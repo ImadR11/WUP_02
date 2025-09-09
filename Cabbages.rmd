@@ -66,3 +66,5 @@ The chances of getting a result like this is .00000003405 meaning that they are 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+When comparing c39 and c52, it shows that the Q3 of c39 is 54.75 which is lower than the Q1 of c52 which is 58. We learned that when this happens, this means that they are significantly more different. We also determined this by taking the averages between the two and comparing the amounts. C52 had everything higher than c39 which concluded that c52 is better to use than c39.
